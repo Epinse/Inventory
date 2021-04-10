@@ -18,7 +18,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         Barang br = new Barang();
-        br.menu();
+        br.data();
         br.getDataValue();
     
     }
